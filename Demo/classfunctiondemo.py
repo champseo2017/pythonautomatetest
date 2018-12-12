@@ -26,3 +26,7 @@ class FC:
 
 a = FC(one=1, ten=10)
 a.show()
+
+
+a = 50
+print(type(a))
