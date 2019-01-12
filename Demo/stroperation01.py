@@ -1,6 +1,6 @@
 str1 = "HelloPython"
 # substring1 = "Hello"
-# ตัวอักษรแตกต่างกัน
+# ตัวอักษรแตกต่างกัน โอปาเรเตอร์ string
 str2 = "Programming"
 str3 = "Programming"
 # print(len()) เช็คจำนวน string ทั้งหมดในตัวแปร return มาเป็น int
