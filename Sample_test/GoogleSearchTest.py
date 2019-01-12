@@ -35,12 +35,3 @@ class GoogleSearch(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='C:/Python_01/reports'))
-
-
-
-
-
-
-
-
-
