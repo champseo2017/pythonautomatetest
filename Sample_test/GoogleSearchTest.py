@@ -34,4 +34,4 @@ class GoogleSearch(unittest.TestCase):
         print("Test Completed")
 
 if __name__ == '__main__':
-    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='C:/Python_01/reports'))
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='C:/pythonautomatetest/reports'))
